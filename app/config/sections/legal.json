@@ -1,0 +1,145 @@
+{
+  "termsOfService": {
+    "title": "Terms of Service",
+    "lastUpdated": "May 2026",
+    "companyName": "VeloraCloud",
+    "websiteUrl": "https://veloracloud.space",
+    "contactEmail": "veloracloudsupport@gmail.com",
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing and using our services, you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service."
+      },
+      {
+        "title": "2. Service Description",
+        "content": "We provide VPS hosting, dedicated servers, and game server hosting services. Our services are subject to availability and may be modified, suspended, or discontinued at any time without notice."
+      },
+      {
+        "title": "3. User Responsibilities",
+        "content": "You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use of your account."
+      },
+      {
+        "title": "4. Acceptable Use Policy",
+        "content": "You agree not to use our services for any unlawful purpose or in any way that could damage, disable, overburden, or impair our servers or networks. Prohibited activities include but are not limited to: illegal content distribution, spam, malware distribution, and DDoS attacks."
+      },
+      {
+        "title": "5. Payment Terms",
+        "content": "Payment is due in advance for all services. We accept various payment methods as displayed on our website. Failure to pay may result in service suspension or termination."
+      },
+      {
+        "title": "6. Service Level Agreement",
+        "content": "We strive to maintain 99.9% uptime for our services. In case of extended downtime, service credits may be provided as outlined in our SLA documentation."
+      },
+      {
+        "title": "7. Data Protection",
+        "content": "We implement appropriate security measures to protect your data. However, you are responsible for maintaining backups of your data. We are not liable for data loss."
+      },
+      {
+        "title": "8. Limitation of Liability",
+        "content": "Our liability is limited to the amount paid for the service in the preceding 12 months. We are not liable for any indirect, incidental, or consequential damages."
+      },
+      {
+        "title": "9. Termination",
+        "content": "Either party may terminate this agreement at any time. Upon termination, your access to the services will be discontinued, and any outstanding fees become immediately due."
+      },
+      {
+        "title": "10. Changes to Terms",
+        "content": "We reserve the right to modify these terms at any time. Changes will be effective immediately upon posting. Your continued use of the service constitutes acceptance of the modified terms."
+      }
+    ]
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "July 2025",
+    "companyName": "VeloraCloud",
+    "websiteUrl": "https://veloracloud.space",
+    "contactEmail": "veloracloudsupport@gmail.com",
+    "sections": [
+      {
+        "title": "1. Information We Collect",
+        "content": "We collect information you provide directly to us, such as when you create an account, make a purchase, or contact us for support. This may include your name, email address, billing information, and technical support communications."
+      },
+      {
+        "title": "2. How We Use Your Information",
+        "content": "We use the information we collect to provide, maintain, and improve our services, process transactions, send you technical notices and support messages, and communicate with you about products, services, and promotional offers."
+      },
+      {
+        "title": "3. Information Sharing",
+        "content": "We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this policy. We may share information with trusted service providers who assist us in operating our website and conducting our business."
+      },
+      {
+        "title": "4. Data Security",
+        "content": "We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet is 100% secure."
+      },
+      {
+        "title": "5. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to enhance your experience on our website. You can control cookie settings through your browser preferences."
+      },
+      {
+        "title": "6. Data Retention",
+        "content": "We retain your personal information for as long as necessary to provide our services and fulfill the purposes outlined in this policy, unless a longer retention period is required by law."
+      },
+      {
+        "title": "7. Your Rights",
+        "content": "You have the right to access, update, or delete your personal information. You may also opt out of certain communications from us. Contact us to exercise these rights."
+      },
+      {
+        "title": "8. Third-Party Services",
+        "content": "Our website may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties."
+      },
+      {
+        "title": "9. International Data Transfers",
+        "content": "Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place for such transfers."
+      },
+      {
+        "title": "10. Changes to This Policy",
+        "content": "We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the 'Last Updated' date."
+      }
+    ]
+  },
+  "refundPolicy": {
+    "title": "Refund Policy",
+    "lastUpdated": "September 2026",
+    "companyName": "VeloraCloud",
+    "websiteUrl": "https://veloracloud.space",
+    "contactEmail": "veloracloudsupport@gmail.com",
+    "sections": [
+      {
+        "title": "1. Introduction",
+        "content": "This Refund Policy explains when and how VeloraCloud issues refunds for its hosting services, including VPS, game server, and Discord bot hosting. It forms part of our Terms of Service. By purchasing a service from us, you agree to the terms set out below."
+      },
+      {
+        "title": "2. Refund Eligibility",
+        "content": "2.1. Time window: refund requests must be submitted within 24 hours of the initial activation of a new service. 2.2. Valid reason: every request must include a clear explanation, such as a technical fault we could not resolve, a service that does not match its published specification, or an accidental duplicate purchase. 2.3. First orders only: the 24-hour window applies to the first purchase of a service, not to renewals."
+      },
+      {
+        "title": "3. How to Request a Refund",
+        "content": "3.1. Contact us through our Discord support channel or by email at veloracloudsupport@gmail.com within the eligibility window. 3.2. Include your order or invoice number, the email address on your account, and the reason for the request. 3.3. Our team will review your request and reply as soon as possible, usually within 1 to 3 business days."
+      },
+      {
+        "title": "4. Non-Refundable Items",
+        "content": "4.1. Requests made after the 24-hour window. 4.2. Renewal payments, unless the renewal was charged in error. 4.3. Domains, licences, and other third-party items we purchase on your behalf. 4.4. Accounts suspended or terminated for breaching our Terms of Service or Acceptable Use Policy. 4.5. Services where we suspect abuse of this policy, such as repeated purchase-and-refund activity, or fraud including chargeback abuse."
+      },
+      {
+        "title": "5. Partial Refunds and Credits",
+        "content": "At our discretion, a prorated refund or account credit may be offered where a service was only partly used, or where extended downtime caused by us affected your service. Any such decision is made case by case and does not create a right to future refunds."
+      },
+      {
+        "title": "6. Refund Method and Timing",
+        "content": "Approved refunds are returned to the original payment method. If that is not possible, we will agree an alternative with you. Once approved, we process the refund promptly, but the time it takes to appear in your account depends on your bank or payment provider (for example UPI, card, or PayPal) and may take 5 to 10 business days."
+      },
+      {
+        "title": "7. Chargebacks",
+        "content": "Please contact us before opening a dispute with your bank or payment provider. Filing a chargeback for a purchase that is covered by this policy may lead to suspension of your account and services while the dispute is resolved."
+      },
+      {
+        "title": "8. Changes to This Policy",
+        "content": "We may update this Refund Policy from time to time. Significant changes will be announced on our website or Discord, and the updated policy applies to purchases made after the change. Continuing to use our services after an update means you accept the revised policy."
+      },
+      {
+        "title": "9. Contact",
+        "content": "For questions about a refund or this policy, email veloracloudsupport@gmail.com or open a ticket through our support channel."
+      }
+    ]
+  }
+}

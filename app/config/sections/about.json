@@ -1,0 +1,78 @@
+{
+  "hero": {
+    "badge": "About Us",
+    "title": "Building the infrastructure",
+    "titleAccent": "behind great communities",
+    "subtitle": "VeloraCloud is a game hosting and cloud infrastructure company focused on giving communities fast, reliable, and affordable servers.",
+    "launchDate": "May 29, 2026",
+    "launchLabel": "Launched"
+  },
+  "story": {
+    "title": "Our Story",
+    "paragraphs": [
+      "VeloraCloud started with a simple goal: make high-performance game and cloud hosting accessible without the confusing pricing and inconsistent support that so many providers are known for.",
+      "Since launching on May 29, 2026, we've focused on building a platform around three things - speed, transparency, and genuinely helpful support - so that whether you're running a Minecraft server for friends or a growing Discord community, the infrastructure just works."
+    ]
+  },
+  "stats": [
+    {
+      "label": "Launched",
+      "value": "May 29, 2026"
+    },
+    {
+      "label": "Server Locations",
+      "value": "India & Singapore"
+    },
+    {
+      "label": "Support",
+      "value": "24/7"
+    },
+    {
+      "label": "Uptime Target",
+      "value": "99.9%"
+    }
+  ],
+  "team": [
+    {
+      "name": "Dhiraj Mahajan",
+      "role": "Founder & CEO",
+      "initials": "DM",
+      "photo": "/team/dhiraj-mahajan.jpg",
+      "bio": "Full stack developer with 3+ years of experience across Java, Python, Node.js, HTML, and CSS."
+    },
+    {
+      "name": "Yash Chaudhari",
+      "role": "Head CEO",
+      "initials": "YC",
+      "bio": "Full stack developer with 3+ years of experience across Java, Python, Node.js, HTML, and CSS."
+    },
+    {
+      "name": "Paras Jain",
+      "role": "Co-Owner & Manager",
+      "initials": "PJ",
+      "bio": "Full stack developer with 3+ years of experience across Java, Python, Node.js, HTML, and CSS."
+    }
+  ],
+  "values": [
+    {
+      "title": "Reliability First",
+      "description": "We build on infrastructure designed for uptime, with DDoS protection and monitoring baked in from day one."
+    },
+    {
+      "title": "Transparent Pricing",
+      "description": "No hidden fees or surprise renewals - what you see at checkout is what you pay."
+    },
+    {
+      "title": "Real Support",
+      "description": "Our team is reachable on Discord and email, not hidden behind a ticket queue that takes days to respond."
+    }
+  ],
+  "cta": {
+    "title": "Ready to get started?",
+    "subtitle": "Join the communities already hosting with VeloraCloud.",
+    "primaryText": "View Plans",
+    "primaryHref": "/games?game=minecraft",
+    "secondaryText": "Join our Discord",
+    "secondaryHref": "https://discord.gg/rxhy4j7Xrh"
+  }
+}

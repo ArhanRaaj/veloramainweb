@@ -1,0 +1,53 @@
+{
+  "showcase": {
+    "header": {
+      "badge": {
+        "text": "Our Panel",
+        "icon": "Zap"
+      },
+      "title": {
+        "text": "Experience Our Platform",
+        "accent": "Platform"
+      },
+      "description": "Discover the powerful features that make our platform the perfect choice for your needs"
+    },
+    "cards": [
+      {
+        "id": 1,
+        "icon": "Zap",
+        "title": "Terminal",
+        "description": "Manage your server directly via our own custom made Shell system. no need for any third party tools!",
+        "imageDark": "/showcase/dark/shell-terminal.png",
+        "imageLight": "/showcase/light/shell.png"
+      },
+      {
+        "id": 2,
+        "icon": "Plug",
+        "title": "Plugin Manager",
+        "description": "Our developers worked hard to bring you the best experience when hosting ur minecraft server. install plugins in a single click.",
+        "imageDark": "/showcase/dark/plugin-manager.png",
+        "imageLight": "/showcase/light/plugin.png"
+      },
+      {
+        "id": 3,
+        "icon": "Archive",
+        "title": "Version Manager",
+        "description": "Switch between Vanilla, Paper, Purpur, Forge, and more \u2014 pick your server software and version in a single click.",
+        "imageDark": "/showcase/dark/version-manager.png",
+        "imageLight": "/showcase/dark/version-manager.png"
+      },
+      {
+        "id": 4,
+        "icon": "Package",
+        "title": "Mods",
+        "description": "Browse thousands of Modrinth mods and install them straight to your server in one click \u2014 no manual uploads needed.",
+        "imageDark": "/showcase/dark/mods-manager.png",
+        "imageLight": "/showcase/dark/mods-manager.png"
+      }
+    ],
+    "settings": {
+      "autoAdvanceInterval": 5000,
+      "progressUpdateInterval": 100
+    }
+  }
+}

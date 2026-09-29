@@ -1,0 +1,66 @@
+{
+  "navbar": {
+    "logo": "/meta/Logo.png",
+    "brandName": "Velora",
+    "brandAccent": "Cloud"
+  },
+  "hero": {
+    "title": {
+      "suffixColor": "white",
+      "gameNameColor": "blue"
+    },
+    "games": [
+      {
+        "id": "minecraft",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "banner": "/banners/minecraft-banners.webp",
+        "color": "#4CAF50",
+        "showSuffix": true,
+        "showInDropdown": true
+      },
+      {
+        "id": "hytale",
+        "name": "Hytale",
+        "displayName": "Hytale",
+        "banner": "/banners/hytale-banner.webp",
+        "color": "#1A7595",
+        "showSuffix": true,
+        "showInDropdown": true
+      }
+    ],
+    "cycleInterval": 10000,
+    "partners": [
+      {
+        "name": "Hetzner",
+        "src": "/advertisement/hetzner.png",
+        "loading": "lazy"
+      },
+      {
+        "name": "Intel",
+        "src": "/advertisement/intel.png",
+        "loading": "lazy"
+      },
+      {
+        "name": "Pterodactyl",
+        "src": "/advertisement/pterodactyl.png",
+        "loading": "lazy"
+      },
+      {
+        "name": "NeoProtect",
+        "src": "/advertisement/neoprotect.png",
+        "loading": "lazy"
+      },
+      {
+        "name": "Samsung",
+        "src": "/advertisement/samsung.png",
+        "loading": "lazy"
+      },
+      {
+        "name": "VeloraCloud",
+        "src": "/meta/Logo.png",
+        "loading": "lazy"
+      }
+    ]
+  }
+}

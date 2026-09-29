@@ -1,0 +1,137 @@
+{
+  "planTypes": [
+    {
+      "id": "ryzen7",
+      "name": "AMD Ryzen 7 5800X",
+      "displayName": "AMD Ryzen 7 5800X",
+      "image": "/cpu/ryzen7.png"
+    },
+    {
+      "id": "ryzen9",
+      "name": "AMD Ryzen 9 9950X",
+      "displayName": "AMD Ryzen 9 9950X",
+      "image": "/cpu/ryzen9.png"
+    }
+  ],
+  "locations": [
+    {
+      "id": "india",
+      "name": "India",
+      "flag": "/flags/india.png",
+      "displayName": "India",
+      "availableCpus": [
+        "ryzen7",
+        "ryzen9"
+      ]
+    },
+    {
+      "id": "singapore",
+      "name": "Singapore",
+      "flag": "/flags/singapore.png",
+      "displayName": "Singapore",
+      "availableCpus": []
+    }
+  ],
+  "plans": {
+    "ryzen7": [
+      {
+        "id": "INDIA-R7-VPS-08",
+        "name": "INDIA-R7-VPS-08",
+        "image": "/cpu/ryzen7.png",
+        "cpu": "2 vCPU",
+        "cpuDetail": "vCPU Cores",
+        "ram": "8 GB",
+        "ramDetail": "DDR4 RAM",
+        "storage": "50 GB",
+        "storageDetail": "NVMe SSD",
+        "bandwidth": "Unmetered",
+        "bandwidthDetail": "Bandwidth",
+        "price": "499",
+        "period": "/mo",
+        "orderLink": "https://billing.veloracloud.space/STD-8G"
+      },
+      {
+        "id": "INDIA-R7-VPS-16",
+        "name": "INDIA-R7-VPS-16",
+        "image": "/cpu/ryzen7.png",
+        "cpu": "4 vCPU",
+        "cpuDetail": "vCPU Cores",
+        "ram": "16 GB",
+        "ramDetail": "DDR4 RAM",
+        "storage": "80 GB",
+        "storageDetail": "NVMe SSD",
+        "bandwidth": "Unmetered",
+        "bandwidthDetail": "Bandwidth",
+        "price": "999",
+        "period": "/mo",
+        "orderLink": "https://billing.veloracloud.space/STD-16G",
+        "badge": "Popular"
+      },
+      {
+        "id": "INDIA-R7-VPS-32",
+        "name": "INDIA-R7-VPS-32",
+        "image": "/cpu/ryzen7.png",
+        "cpu": "8 vCPU",
+        "cpuDetail": "vCPU Cores",
+        "ram": "32 GB",
+        "ramDetail": "DDR4 RAM",
+        "storage": "120 GB",
+        "storageDetail": "NVMe SSD",
+        "bandwidth": "Unmetered",
+        "bandwidthDetail": "Bandwidth",
+        "price": "1899",
+        "period": "/mo",
+        "orderLink": "https://billing.veloracloud.space/STD-32G"
+      },
+      {
+        "id": "INDIA-R7-VPS-48",
+        "name": "INDIA-R7-VPS-48",
+        "image": "/cpu/ryzen7.png",
+        "cpu": "10 vCPU",
+        "cpuDetail": "vCPU Cores",
+        "ram": "48 GB",
+        "ramDetail": "DDR4 RAM",
+        "storage": "150 GB",
+        "storageDetail": "NVMe SSD",
+        "bandwidth": "Unmetered",
+        "bandwidthDetail": "Bandwidth",
+        "price": "2199",
+        "period": "/mo",
+        "orderLink": "https://billing.veloracloud.space/STD-48G"
+      },
+      {
+        "id": "INDIA-R7-VPS-64-1",
+        "name": "INDIA-R7-VPS-64-1",
+        "image": "/cpu/ryzen7.png",
+        "cpu": "16 vCPU",
+        "cpuDetail": "vCPU Cores",
+        "ram": "64 GB",
+        "ramDetail": "DDR4 RAM",
+        "storage": "200 GB",
+        "storageDetail": "NVMe SSD",
+        "bandwidth": "Unmetered",
+        "bandwidthDetail": "Bandwidth",
+        "price": "2599",
+        "period": "/mo",
+        "orderLink": "https://billing.veloracloud.space/STD-64G-1"
+      },
+      {
+        "id": "INDIA-R7-VPS-64-2",
+        "name": "INDIA-R7-VPS-64-2",
+        "image": "/cpu/ryzen7.png",
+        "cpu": "24 vCPU",
+        "cpuDetail": "vCPU Cores",
+        "ram": "64 GB",
+        "ramDetail": "DDR4 RAM",
+        "storage": "200 GB",
+        "storageDetail": "NVMe SSD",
+        "bandwidth": "Unmetered",
+        "bandwidthDetail": "Bandwidth",
+        "price": "2999",
+        "period": "/mo",
+        "orderLink": "https://billing.veloracloud.space/STD-64G-2"
+      }
+    ],
+    "ryzen9": []
+  }
+}

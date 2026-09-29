@@ -1,0 +1,391 @@
+{
+  "navbar": {
+    "games": "Games",
+    "cloud": "Cloud",
+    "dedicated": "Dedicated",
+    "discord": "Discord Bot",
+    "webhosting": "WebHosting",
+    "legal": "Legal",
+    "clientSpace": "CLIENT SPACE",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "termsDescription": "Our service agreement and terms",
+    "privacyDescription": "How we protect your privacy",
+    "refundPolicy": "Refund Policy",
+    "refundDescription": "When and how we issue refunds"
+  },
+  "common": {
+    "orderNow": "Order Now",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "paymentsIntro": "Experience frictionless transactions with our diverse range of secure options. Whether using UPI, Cards, Wallets, or Crypto—your deployment starts instantly.",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "loading": "Loading...",
+    "comingSoon": "Coming Soon",
+    "popular": "Popular",
+    "bestValue": "Best Value",
+    "mostPopular": "Most Popular",
+    "recommended": "Recommended"
+  },
+  "vps": {
+    "title": "VPS Hosting Solutions",
+    "description": "High-performance virtual private servers with full root access, SSD storage, and 24/7 support. Perfect for developers and businesses.",
+    "badge": "Cloud VPS",
+    "location": "Location",
+    "cpuType": "CPU Type",
+    "choosePlan": "Choose Plan",
+    "step1": "1. Location",
+    "step2": "2. CPU Type",
+    "step3": "3. Choose Plan"
+  },
+  "dedicated": {
+    "title": "Dedicated Server Solutions",
+    "description": "Bare metal dedicated servers with enterprise-grade hardware, full control, and maximum performance for demanding applications.",
+    "badge": "Dedicated Servers",
+    "cpuType": "CPU Type",
+    "location": "Location",
+    "choosePlan": "Choose Plan",
+    "step1": "1. CPU Type",
+    "step2": "2. Choose Plan",
+    "noStock": "No Stock Available",
+    "noStockDescription": "We're currently out of stock for all VDS configurations. Please check back later or contact our support team for updates."
+  },
+  "features": {
+    "title": "Advanced Features",
+    "subtitle": "Everything you need for professional game server hosting",
+    "badge": "We Won't Disappoint",
+    "highPerformance": "High Performance",
+    "highPerformanceDesc": "Powered by latest generation processors for performance",
+    "lowLatency": "Low Latency",
+    "lowLatencyDesc": "Optimized network infrastructure for minimal lag and delay",
+    "advancedSecurity": "Advanced Security",
+    "advancedSecurityDesc": "Our system is protected by advanced, multi-layered security protocols designed to detect, isolate, and neutralize threats in real time — ensuring your data remains safe around the clock",
+    "autoRecovery": "Auto Recovery",
+    "autoRecoveryDesc": "Automatic server recovery and backup systems",
+    "fullControl": "Full Control",
+    "fullControlDesc": "Complete server control panel with advanced configuration options",
+    "resourceScaling": "Resource Scaling",
+    "resourceScalingDesc": "Dynamic resource allocation based on server demands",
+    "globalNetwork": "Global Network",
+    "globalNetworkDesc": "Worldwide server locations for optimal connectivity"
+  },
+  "locations": {
+    "title": "Global Locations",
+    "subtitle": "Strategically positioned servers worldwide for optimal performance and minimal latency",
+    "badge": "Global Infrastructure"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our game server hosting services",
+    "question1": "How do I get started with game server hosting?",
+    "answer1": "Getting started is simple! Choose your game, select a server location, and follow our easy setup wizard. Your server will be up and running in minutes with our instant deployment system.",
+    "question2": "What kind of support do you provide?",
+    "answer2": "We offer 24/7 technical support through live chat and ticket system. Our expert team is always ready to help with server configuration, performance optimization, and any technical issues.",
+    "question3": "Can I modify server settings and configurations?",
+    "answer3": "Yes! You have full control over your server settings through our intuitive control panel. Modify game settings, install mods, and manage your server with ease.",
+    "question4": "What payment methods do you accept?",
+    "answer4": "We accept all major credit cards, PayPal, and cryptocurrency payments. Our billing system is secure and transparent, with no hidden fees.",
+    "question5": "Do you offer DDoS protection?",
+    "answer5": "Yes, all our servers come with enterprise-grade DDoS protection included at no extra cost. Your server will stay online even during attacks."
+  },
+  "footer": {
+    "description": "VeloraCloud is a trusted game server provider delivering high-performance, low-latency hosting for players and developers. Backed by robust infrastructure, enhanced security, and responsive support, we ensure smooth, reliable gaming for communities around the world.",
+    "madeBy": "Made by",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "contactUs": "Contact Us",
+    "aboutUs": "About Us",
+    "clientArea": "Client Area",
+    "discord": "Discord",
+    "vpsHosting": "VPS Hosting",
+    "dedicatedServerHosting": "Dedicated Server Hosting",
+    "gameServerHosting": "Game Server Hosting",
+    "minecraftServers": "Minecraft Servers",
+    "hytaleServers": "Hytale Servers",
+    "statusPage": "Status Page",
+    "email": "Email",
+    "phone": "Phone",
+    "gamePanel": "Game Panel",
+    "billingPanel": "Billing Panel",
+    "securePayments": "Secure Payments",
+    "allRightsReserved": "All rights reserved.",
+    "systemsOperational": "All systems operational"
+  },
+  "webhosting": {
+    "title": "Web Hosting Solutions",
+    "description": "Professional web hosting with high-performance servers, 99.9% uptime guarantee, and 24/7 support. Perfect for websites, applications, and online businesses.",
+    "badge": "Web Hosting"
+  },
+  "panelShowcase": {
+    "badge": "Our Panel",
+    "title": "Experience Our Platform",
+    "subtitle": "Discover the powerful features that make our platform the perfect choice for your needs"
+  },
+  "discordBanner": {
+    "title": "Join Our Discord",
+    "subtitle": "Connect with our community of gamers and developers",
+    "description": "Get instant support, share experiences, and stay updated with the latest news"
+  },
+  "osSelection": {
+    "badge": "Operating Systems",
+    "title": "Choose your OS",
+    "description": "Select from a wide range of popular operating systems. All images are pre-configured and ready to deploy instantly on your VPS."
+  },
+  "hero": {
+    "titlePrefix": "Host your own",
+    "titleSuffix": "Servers",
+    "description": "Experience lightning-fast performance, unbeatable reliability, and 24/7 support for all your favorite games.",
+    "getStarted": "Get started",
+    "learnMore": "Learn More",
+    "getStartedFree": "Get started for free!",
+    "instantSetup": "Instant Setup",
+    "instantSetupDesc": "Get your server running in under 60 seconds",
+    "ddosProtection": "DDoS Protection",
+    "ddosProtectionDesc": "Enterprise-grade security for your servers",
+    "uptime": "99.9% Uptime",
+    "uptimeDesc": "Reliable hosting with guaranteed availability",
+    "support": "24/7 Support",
+    "supportDesc": "Expert help whenever you need it"
+  },
+  "configHeaders": {
+    "vpsHosting": "VPS Hosting",
+    "buildVps": "Build your VPS",
+    "vpsDescription": "High performance VPS backed with 2Tbps+ DDoS protection, several global anycast locations, latest Ryzen and Intel hardware; all at an affordable price.",
+    "vdsHosting": "VDS Hosting",
+    "buildVds": "Build your VDS",
+    "vdsDescription": "High performance Virtual Dedicated Servers backed with 2Tbps+ DDoS protection, several global anycast locations, latest Ryzen and Intel hardware; all at an affordable price.",
+    "gameServers": "Game Servers",
+    "chooseGameServer": "Choose your Game Server",
+    "gameServersDescription": "Select from our wide range of optimized game servers. Each server is configured for maximum performance and comes with DDoS protection.",
+    "webHosting": "Web Hosting",
+    "webHostingSolutions": "Web Hosting Solutions",
+    "webHostingDescription": "Professional web hosting with high-performance servers, 99.9% uptime guarantee, and 24/7 support. Perfect for websites, applications, and online businesses.",
+    "discordBotHosting": "Discord Bot Hosting",
+    "discordBotTitle": "Discord Bot Hosting",
+    "discordBotDescription": "Reliable and affordable Discord bot hosting with 24/7 uptime, Node.js support, and easy deployment. Perfect for developers and communities."
+  },
+  "discord": {
+    "title": "Discord Bot Hosting",
+    "description": "Reliable and affordable Discord bot hosting with 24/7 uptime, Node.js support, and easy deployment. Perfect for developers and communities.",
+    "badge": "Discord Bot Hosting",
+    "step1": "1. Plan Type",
+    "step2": "2. Choose Plan",
+    "viewMore": "View More Plans",
+    "viewLess": "View Less Plans",
+    "paymentText": "Experience frictionless transactions with our diverse range of secure options. Whether using UPI, Cards, Wallets, or Crypto—your bot deployment starts instantly.",
+    "paymentLink": "Learn More About Payment Methods",
+    "techStack": {
+      "title": "Multi-Language &",
+      "titleHighlight": "Framework Support",
+      "paragraph1Prefix": "Our high-performance infrastructure is optimized for both",
+      "paragraph1Highlight": "Discord and Telegram bots",
+      "paragraph1Suffix": ", offering full native support for Node.js, Python, Java, Rust, and more.",
+      "paragraph2Prefix": "Whether you are running",
+      "paragraph2Highlight1": "AI-driven chatbots, server management tools,",
+      "paragraph2Mid": "or",
+      "paragraph2Highlight2": "high-fidelity music bots",
+      "paragraph2Suffix": " using Lavalink, our sub-millisecond latency ensures your users get an instant response every time.",
+      "paragraph3Prefix": "Deploy with ease using our",
+      "paragraph3Highlight": "developer-friendly environment",
+      "paragraph3Suffix": ", featuring instant Git integration and 24/7 monitoring to keep your applications online without interruption."
+    },
+    "expertTeam": {
+      "eyebrow": "Still not convinced?",
+      "title": "Talk To Our",
+      "titleHighlight": "Expert Team",
+      "description": "Have specific questions about your bot's requirements or need a custom solution? Join our community and create a ticket. Our expert team is ready to clear your doubts and help you find the perfect setup for your project.",
+      "stat1Title": "Live Tickets",
+      "stat1Description": "Get direct access to our technical support team.",
+      "stat2Title": "Active Community",
+      "stat2Description": "Join 100+ developers in our active Discord hub.",
+      "cta": "Join Our Discord",
+      "widgetTitle": "Discord",
+      "widgetSubtitle": "members online",
+      "widgetFooter": "Hangout with people who get it",
+      "widgetCta": "Join Discord",
+      "channelGeneral": "General",
+      "channelSupport": "Wait for Support"
+    }
+  },
+  "pricingSection": {
+    "title": "Simple Pricing",
+    "titleHighlight": "Plans",
+    "titleSuffix": "for Everyone",
+    "description": "Choose the perfect plan for your needs. All plans include our core features with no hidden fees.",
+    "footerText": "Need a custom solution?",
+    "footerLinkText": "Contact our sales team"
+  },
+  "pricingPlans": {
+    "gameServers": {
+      "title": "Game Servers",
+      "description": "High-performance game hosting for all popular games",
+      "buttonText": "View More",
+      "features": {
+        "instantDeployment": "Instant deployment",
+        "ddosProtection": "DDoS protection",
+        "support247": "24/7 support",
+        "customConfigurations": "Custom configurations",
+        "modSupport": "Mod support"
+      }
+    },
+    "vpsHosting": {
+      "title": "VPS Hosting",
+      "description": "Scalable virtual private servers for your applications",
+      "buttonText": "Order Now",
+      "features": {
+        "fullRootAccess": "Full root access",
+        "ssdStorage": "SSD storage",
+        "uptime": "99.9% uptime",
+        "multipleOS": "Multiple OS options",
+        "backupIncluded": "Backup included"
+      }
+    },
+    "dedicatedServers": {
+      "title": "Dedicated Servers",
+      "description": "Enterprise-grade dedicated hardware for maximum performance",
+      "buttonText": "Get a Quote",
+      "features": {
+        "bareMetalPerformance": "Bare metal performance",
+        "customHardware": "Custom hardware",
+        "enterpriseSupport": "Enterprise support",
+        "advancedSecurity": "Advanced security",
+        "managedServices": "Managed services"
+      }
+    },
+    "webHosting": {
+      "title": "Web Hosting",
+      "description": "Professional web hosting with high-performance servers and 24/7 support",
+      "buttonText": "Order Now",
+      "features": {
+        "ssdStorage": "SSD storage",
+        "uptime": "99.9% uptime",
+        "support247": "24/7 support",
+        "freeSSL": "Free SSL certificate",
+        "dailyBackups": "Daily backups"
+      }
+    },
+    "minecraftServers": {
+      "title": "Minecraft Servers",
+      "description": "High-performance Minecraft hosting with instant setup",
+      "buttonText": "View Plans",
+      "features": {
+        "instantDeployment": "Instant deployment",
+        "ddosProtection": "DDoS protection",
+        "support247": "24/7 support",
+        "customConfigurations": "Custom configurations",
+        "modSupport": "Mod & plugin support"
+      }
+    },
+    "hytaleServers": {
+      "title": "Hytale Servers",
+      "description": "Get ready for Hytale with next-gen game server hosting",
+      "buttonText": "View Plans",
+      "features": {
+        "instantDeployment": "Instant deployment",
+        "ddosProtection": "DDoS protection",
+        "support247": "24/7 support",
+        "customConfigurations": "Custom configurations",
+        "modSupport": "Mod support"
+      }
+    },
+    "bedrockServers": {
+      "title": "Bedrock Servers",
+      "description": "PocketMine-powered hosting for Minecraft: Bedrock Edition",
+      "buttonText": "View Plans",
+      "features": {
+        "instantDeployment": "Instant deployment",
+        "ddosProtection": "DDoS protection",
+        "support247": "24/7 support",
+        "customConfigurations": "Custom configurations",
+        "pluginSupport": "Plugin support"
+      }
+    },
+    "botHosting": {
+      "title": "Bot Hosting",
+      "description": "Reliable 24/7 Discord bot hosting that just works",
+      "buttonText": "Order Now",
+      "features": {
+        "ssdStorage": "SSD storage",
+        "uptime": "99.9% uptime",
+        "support247": "24/7 support",
+        "advancedSecurity": "Advanced security",
+        "dailyBackups": "Daily backups"
+      }
+    },
+    "indiaVps": {
+      "title": "India VPS",
+      "description": "Low-latency VPS hosting from our India data center",
+      "buttonText": "Order Now",
+      "features": {
+        "fullRootAccess": "Full root access",
+        "ssdStorage": "SSD storage",
+        "uptime": "99.9% uptime",
+        "multipleOS": "Multiple OS options",
+        "backupIncluded": "Backup included"
+      }
+    },
+    "singaporeVps": {
+      "title": "Singapore VPS",
+      "description": "Blazing-fast VPS hosting from our Singapore data center",
+      "buttonText": "Order Now",
+      "features": {
+        "fullRootAccess": "Full root access",
+        "ssdStorage": "SSD storage",
+        "uptime": "99.9% uptime",
+        "multipleOS": "Multiple OS options",
+        "backupIncluded": "Backup included"
+      }
+    }
+  },
+  "gameServerList": {
+    "badge": "Game Servers",
+    "title": "Choose your Game Server",
+    "description": "Select from our wide range of optimized game servers. Each server is configured for maximum performance and comes with DDoS protection.",
+    "step1": "1. Plan Type",
+    "step2": "2. Location",
+    "step3": "3. Select Software",
+    "step4": "4. Choose Plan",
+    "orderNow": "Order Now",
+    "featured": "Featured",
+    "premium": "Premium",
+    "startingAt": "Starting at",
+    "ddosProtection": "DDoS Protection",
+    "viewMore": "View More Plans",
+    "viewLess": "View Less Plans"
+  },
+  "webHostingPricing": {
+    "badge": "Web Hosting Solutions",
+    "title": "Premium Web Hosting",
+    "description": "Fast, reliable, and secure web hosting solutions for your websites and applications.",
+    "step1": "1. Plan Type",
+    "step2": "2. Choose Plan",
+    "orderNow": "Order Now",
+    "webHosting": "Web Hosting"
+  },
+  "minecraftServerTypes": {
+    "title": "What Types Of Minecraft Servers Can I Run?",
+    "paragraph1": "Our Minecraft hosting supports a wide range of server types for both Minecraft Java Edition and Minecraft Bedrock Edition, also known as Pocket Edition or Windows Edition.",
+    "paragraph2": "Using our Game Panel, you can easily install and switch between server software such as Vanilla, Paper, CraftBukkit, Forge, Fabric, Spigot, and Sponge, along with performance-focused forks like Purpur, Pufferfish, and Folia. Proxy and network software including Velocity, BungeeCord, and Waterfall are also supported.",
+    "paragraph3": "For Bedrock Edition, we support Bedrock Dedicated Server, PocketMine-MP, and NukkitMP, enabling cross-platform play across mobile, console, and Windows devices. Java and Bedrock players can also play together simultaneously using the GeyserMC plugin.",
+    "note": "All server types and software versions can be changed at any time directly from the Game Panel in a single click.",
+    "check1": "Java + Bedrock",
+    "check2": "Cross-Platform",
+    "check3": "Plugins & Mods",
+    "check4": "Easy Software Switching",
+    "check5": "Modpacks",
+    "check6": "GeyserMC Cross-Play"
+  },
+  "minecraftCta": {
+    "title": "Want 24/7 Minecraft",
+    "titleHighlight": "Hosting?",
+    "description": "Build your perfect Minecraft world on high-performance servers designed for gamers. Experience smooth gameplay, fast setup, and unbeatable reliability.",
+    "feature1": "Instant server deployment and easy setup",
+    "feature2": "DDoS protection to keep your world online 24/7",
+    "feature3": "Full control panel with custom configurations",
+    "feature4": "NVMe SSD performance for zero lag",
+    "feature5": "Affordable pricing and 24/7 technical support",
+    "viewPlans": "View Hosting Plans",
+    "backHome": "Back to Home"
+  }
+}

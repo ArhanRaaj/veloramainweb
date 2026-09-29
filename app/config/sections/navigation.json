@@ -1,0 +1,83 @@
+{
+  "mainNavigation": [
+    {
+      "name": "Minecraft",
+      "href": "/games?game=minecraft",
+      "icon": "Gamepad2",
+      "hasDropdown": false
+    },
+    {
+      "name": "Bedrock",
+      "href": "/bedrock",
+      "icon": "Gamepad2",
+      "hasDropdown": false
+    },
+    {
+      "name": "Hytale",
+      "href": "/games?game=hytale",
+      "icon": "Gamepad2",
+      "hasDropdown": false
+    },
+    {
+      "name": "VPS",
+      "href": "/vps",
+      "icon": "Cloud",
+      "hasDropdown": false
+    },
+    {
+      "name": "Discord Bot",
+      "href": "/discord",
+      "icon": "FaDiscord",
+      "hasDropdown": false
+    },
+    {
+      "name": "Legal",
+      "href": "/terms-of-services",
+      "icon": "FileText",
+      "hasDropdown": true,
+      "dropdownType": "legal",
+      "dropdownItems": [
+        {
+          "name": "Terms of Service",
+          "href": "/terms-of-services",
+          "description": "Our service agreement and terms"
+        },
+        {
+          "name": "Privacy Policy",
+          "href": "/privacy-policy",
+          "description": "How we protect your privacy"
+        },
+        {
+          "name": "Refund Policy",
+          "href": "/refund-policy",
+          "description": "When and how we issue refunds"
+        }
+      ]
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "Discord",
+      "href": "https://discord.gg/rxhy4j7Xrh",
+      "icon": "discord"
+    },
+    {
+      "name": "Status",
+      "href": "https://status.veloracloud.space",
+      "icon": "status"
+    }
+  ],
+  "clientSpace": {
+    "name": "CLIENT SPACE",
+    "href": "https://billing.veloracloud.space/register",
+    "icon": "User"
+  },
+  "banner": {
+    "show": true,
+    "text": "Limited Time Offer: Save 10% on Game Servers",
+    "couponCode": "WELCOME10",
+    "useThemeColor": true,
+    "backgroundColor": "bg-[#2B7FFF]",
+    "fallbackColor": "bg-[#2B7FFF]"
+  }
+}

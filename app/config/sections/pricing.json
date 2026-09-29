@@ -1,0 +1,118 @@
+{
+  "section": {
+    "title": {
+      "prefix": "Choose Your",
+      "highlight": "Plan",
+      "suffix": ""
+    },
+    "description": "Select the perfect hosting solution for your needs",
+    "plans": [
+      {
+        "titleKey": "pricingPlans.minecraftServers.title",
+        "image": "/banners/minecraft-banners.webp",
+        "descriptionKey": "pricingPlans.minecraftServers.description",
+        "basePrice": 30,
+        "featuresKeys": [
+          "pricingPlans.minecraftServers.features.instantDeployment",
+          "pricingPlans.minecraftServers.features.ddosProtection",
+          "pricingPlans.minecraftServers.features.support247",
+          "pricingPlans.minecraftServers.features.customConfigurations",
+          "pricingPlans.minecraftServers.features.modSupport"
+        ],
+        "buttonTextKey": "pricingPlans.minecraftServers.buttonText",
+        "buttonStyle": "primary",
+        "popular": false,
+        "link": "/games?game=minecraft"
+      },
+      {
+        "titleKey": "pricingPlans.hytaleServers.title",
+        "image": "/banners/hytale-banner.webp",
+        "descriptionKey": "pricingPlans.hytaleServers.description",
+        "basePrice": 150,
+        "featuresKeys": [
+          "pricingPlans.hytaleServers.features.instantDeployment",
+          "pricingPlans.hytaleServers.features.ddosProtection",
+          "pricingPlans.hytaleServers.features.support247",
+          "pricingPlans.hytaleServers.features.customConfigurations",
+          "pricingPlans.hytaleServers.features.modSupport"
+        ],
+        "buttonTextKey": "pricingPlans.hytaleServers.buttonText",
+        "buttonStyle": "primary",
+        "popular": false,
+        "link": "/games?game=hytale"
+      },
+      {
+        "titleKey": "pricingPlans.bedrockServers.title",
+        "image": "/banners/minecraft-banners.webp",
+        "descriptionKey": "pricingPlans.bedrockServers.description",
+        "basePrice": 50,
+        "featuresKeys": [
+          "pricingPlans.bedrockServers.features.instantDeployment",
+          "pricingPlans.bedrockServers.features.ddosProtection",
+          "pricingPlans.bedrockServers.features.support247",
+          "pricingPlans.bedrockServers.features.customConfigurations",
+          "pricingPlans.bedrockServers.features.pluginSupport"
+        ],
+        "buttonTextKey": "pricingPlans.bedrockServers.buttonText",
+        "buttonStyle": "primary",
+        "popular": false,
+        "link": "/bedrock"
+      },
+      {
+        "titleKey": "pricingPlans.botHosting.title",
+        "image": "/banners/node.webp",
+        "descriptionKey": "pricingPlans.botHosting.description",
+        "basePrice": 50,
+        "featuresKeys": [
+          "pricingPlans.botHosting.features.ssdStorage",
+          "pricingPlans.botHosting.features.uptime",
+          "pricingPlans.botHosting.features.support247",
+          "pricingPlans.botHosting.features.advancedSecurity",
+          "pricingPlans.botHosting.features.dailyBackups"
+        ],
+        "buttonTextKey": "pricingPlans.botHosting.buttonText",
+        "buttonStyle": "secondary",
+        "popular": false,
+        "link": "/discord"
+      },
+      {
+        "titleKey": "pricingPlans.indiaVps.title",
+        "image": "/vps.png",
+        "descriptionKey": "pricingPlans.indiaVps.description",
+        "basePrice": 500,
+        "featuresKeys": [
+          "pricingPlans.indiaVps.features.fullRootAccess",
+          "pricingPlans.indiaVps.features.ssdStorage",
+          "pricingPlans.indiaVps.features.uptime",
+          "pricingPlans.indiaVps.features.multipleOS",
+          "pricingPlans.indiaVps.features.backupIncluded"
+        ],
+        "buttonTextKey": "pricingPlans.indiaVps.buttonText",
+        "buttonStyle": "secondary",
+        "popular": false,
+        "link": "/vps"
+      },
+      {
+        "titleKey": "pricingPlans.singaporeVps.title",
+        "image": "/vps.png",
+        "descriptionKey": "pricingPlans.singaporeVps.description",
+        "basePrice": 400,
+        "featuresKeys": [
+          "pricingPlans.singaporeVps.features.fullRootAccess",
+          "pricingPlans.singaporeVps.features.ssdStorage",
+          "pricingPlans.singaporeVps.features.uptime",
+          "pricingPlans.singaporeVps.features.multipleOS",
+          "pricingPlans.singaporeVps.features.backupIncluded"
+        ],
+        "buttonTextKey": "pricingPlans.singaporeVps.buttonText",
+        "buttonStyle": "secondary",
+        "popular": false,
+        "link": "/vps"
+      }
+    ],
+    "footer": {
+      "text": "Need a custom solution?",
+      "linkText": "Contact our sales team"
+    }
+  }
+}
